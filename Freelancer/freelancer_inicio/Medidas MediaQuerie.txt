@@ -1,0 +1,4 @@
+480px: telefono
+768px: tablet
+1140px: laptop
+1440px: escritorio
